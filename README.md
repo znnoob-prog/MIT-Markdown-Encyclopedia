@@ -1,2 +1,9 @@
 # MIT-Markdown-Encyclopedia
-NOTE! This isn't made by MIT. This repository is unofficial.
+
+## Notes
+
+**NOTE!** This isn't made by MIT. This repository is unofficial.
+
+**NOTE!** We are not a company, nor an organization.
+
+**NOTE!** We do not do labor.
