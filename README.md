@@ -17,7 +17,3 @@
 **NOTE!** We do not do labor.
 
 ---
-
-**NOTE!** This has a custom license, therefore not made with a MIT license.
-
----
